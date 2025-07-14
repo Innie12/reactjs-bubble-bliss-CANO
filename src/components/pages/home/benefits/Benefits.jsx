@@ -27,7 +27,7 @@ const Benefits = () => {
               </h2>
               <CardBenefits
                 bg={"bg-pink-100"}
-                check_color={"text-pink-500"}
+                color={"text-pink-500"}
                 title={"Antioxidant Rich"}
                 description={
                   "Tea contains polyphenols that help fight free radicals."
@@ -35,7 +35,7 @@ const Benefits = () => {
               />
               <CardBenefits
                 bg={"bg-purple-100"}
-                check_color={"text-purple-500"}
+                color={"text-purple-500"}
                 title={"Energy Boost"}
                 description={
                   "Natural caffeince provides a gentle lift without coffee jitters."
@@ -43,7 +43,7 @@ const Benefits = () => {
               />
               <CardBenefits
                 bg={"bg-yellow-100"}
-                check_color={"text-yellow-500"}
+                color={"text-yellow-500"}
                 title={"Mood Enhancer"}
                 description={
                   "The comforting warmth and sweetness can brighten your day."
