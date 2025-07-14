@@ -9,7 +9,7 @@ const Benefits = () => {
         className="w-full py-16
       xl:pt-[4.5rem] xl:pb-[3.6rem]"
       >
-        <div className="max-w-[98.5rem] mx-auto px-4 ">
+        <div className="container mx-auto px-16 ">
           <div
             className="justify-items-center text-center
             md:grid md:grid-cols-[2fr_1fr] md:justify-items-start"
